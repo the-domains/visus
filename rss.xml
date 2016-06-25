@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lyrical Visionary]]></title>
+        <description><![CDATA[Lyrical Visionary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 22:38:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Matter More" Ft. DZE]]></title>
+            <description><![CDATA[<article><h1>"Matter More" Ft. DZE</h1><p>Written And Performed By. Visus & DZE Produced By. Alex Hill Mix/Mastered By. Gxldxn/Landr First Official Single To My Tape "Time Intelligence Money Excitement"(T.I.M.E.)</p></article>]]></description>
+            <link>https://soundcloud.com/lyricalvisus/matter-more-ft-dze</link>
+            <guid isPermaLink="false">a17103dc-bc8a-4462-b460-68980756de0d</guid>
+            <pubDate>Sat, 25 Jun 2016 22:37:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
