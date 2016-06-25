@@ -1,0 +1,14 @@
+layout_spectrum: 0.7264958519954234
+typography_spectrum: 0.783288822742179
+color:
+  brandStrength: 0.7277966195251793
+  lightness: 0.146646227221936
+  saturation: 0.06466860114596784
+  rhythmicContrast: 0.9818120070267469
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Visus
