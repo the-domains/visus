@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-25T22:41:38.519Z'
+datePublished: '2016-06-25T22:43:00.133Z'
+sourcePath: _posts/2016-06-25-matter-more-ft-dze.md
 isBasedOnUrl: 'https://soundcloud.com/lyricalvisus/matter-more-ft-dze'
 keywords: []
 related: []
@@ -7,8 +8,8 @@ author:
   - name: Visus
     url: 'http://soundcloud.com/lyricalvisus'
     avatar: {}
-dateModified: '2016-06-25T22:41:38.170Z'
-title: '"Matter More" Ft. DZE'
+dateModified: '2016-06-25T22:42:56.793Z'
+title: Matter More (feat. DZE)
 app_links:
   - type: ios
     namespace: ai
@@ -55,7 +56,6 @@ description: >-
   Written And Performed By. Visus & DZE Produced By. Alex Hill Mix/Mastered By.
   Gxldxn/Landr First Official Single To My Tape "Time Intelligence Money
   Excitement"(T.I.M.E.)
-sourcePath: _posts/2016-06-25-matter-more-ft-dze.md
 starred: true
 inFeed: true
 hasPage: false
